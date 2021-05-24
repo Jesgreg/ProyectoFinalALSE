@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>meteorology.png</file>
+        <file>artificial-intelligence.png</file>
+    </qresource>
+</RCC>
